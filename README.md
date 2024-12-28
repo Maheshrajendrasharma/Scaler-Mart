@@ -2,7 +2,7 @@
 ## * Overall Sales Decline:
 * Total sales revenue dropped nearly 50% from 2019 to 2020.
 * Sales in 2019 were 1.66 billion USD, which declined to 834 million USD in 2020​
-Order Volume:
+## * Order Volume:
 The number of orders decreased significantly:
 21,611 orders in 2019 versus 11,026 in 2020.
 This represents a 50% drop in order quantity​
