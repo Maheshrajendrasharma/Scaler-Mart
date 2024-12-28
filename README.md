@@ -1,6 +1,5 @@
-Overall findings
-Findings from the Analysis
-Overall Sales Decline:
+# Findings from the Analysis
+## * Overall Sales Decline:
 * Total sales revenue dropped nearly 50% from 2019 to 2020.
 * Sales in 2019 were 1.66 billion USD, which declined to 834 million USD in 2020​
 Order Volume:
